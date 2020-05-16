@@ -32,7 +32,7 @@
 						<span>email:</span>
 					</td>
 					<td>
-						<a href="mailto:dartrein59@gmail.com">dartrein598@gmail.com</a>
+						<a href="mailto:dartrein59@gmail.com">dartrein59@gmail.com</a>
 					</td>
 
 				</tr>
